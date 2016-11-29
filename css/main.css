@@ -28,3 +28,28 @@ main .row {
 .blue {
   background-color: blue;
 }
+
+.red {
+  background-color: red;
+}
+
+.pink {
+  background-color: pink;
+}
+
+.white {
+  background-color: white;
+  border: 2px solid black;
+}
+
+.gray {
+  background-color: gray;
+}
+
+.navy {
+  background-color: navy;
+}
+
+.purple {
+  background-color: purple;
+}
